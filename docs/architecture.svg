@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" font-family="Segoe UI, Arial, sans-serif">
+<rect width="100%" height="100%" rx="16" fill="#0f172a"/>
+<text x="30" y="42" font-size="24" font-weight="700" fill="#f8fafc">Simple Interest Calculator</text>
+<text x="30" y="68" font-size="14" fill="#94a3b8">Bash · bc · simple-interest.sh</text>
+<rect x="30" y="90" width="200" height="80" rx="12" fill="#2563eb"/>
+<text x="130" y="122" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1 · ENTER PRINCIPAL</text>
+<text x="130" y="146" font-size="12" fill="#e2e8f0" text-anchor="middle">p — principal amount</text>
+<rect x="270" y="90" width="200" height="80" rx="12" fill="#7c3aed"/>
+<text x="370" y="122" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2 · ENTER TIME</text>
+<text x="370" y="146" font-size="12" fill="#e2e8f0" text-anchor="middle">t — time period in years</text>
+<rect x="510" y="90" width="200" height="80" rx="12" fill="#059669"/>
+<text x="610" y="122" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3 · ENTER RATE</text>
+<text x="610" y="146" font-size="12" fill="#e2e8f0" text-anchor="middle">r — annual rate of interest</text>
+<rect x="30" y="210" width="200" height="80" rx="12" fill="#0891b2"/>
+<text x="130" y="242" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4 · COMPUTE WITH bc</text>
+<text x="130" y="266" font-size="12" fill="#e2e8f0" text-anchor="middle">s = p * t * r / 100 · scale=2</text>
+<rect x="270" y="210" width="200" height="80" rx="12" fill="#dc2626"/>
+<text x="370" y="242" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">5 · PRINT RESULT</text>
+<text x="370" y="266" font-size="12" fill="#e2e8f0" text-anchor="middle">The simple interest is: s</text>
+<rect x="510" y="210" width="200" height="80" rx="12" fill="#ea580c"/>
+<text x="610" y="242" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Sample purpose only</text>
+<text x="610" y="266" font-size="12" fill="#e2e8f0" text-anchor="middle">do not use in production</text>
+</svg>
